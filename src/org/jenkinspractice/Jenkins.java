@@ -7,6 +7,7 @@ public class Jenkins {
 
 		
 		System.out.println("This is jenkins projcet");
+		System.out.println("This is new commit");
 	}
 
 }
