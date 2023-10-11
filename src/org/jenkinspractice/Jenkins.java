@@ -8,7 +8,7 @@ public class Jenkins {
 		
 		System.out.println("This is jenkins projcet");
 		System.out.println("This is new commit");
-		System.out.println("This is new commit after changing ngrok http 8080 on 11/10");
+		System.out.println("This is new commit after changing  ngrok http 8080 on 11/10");
 	}
 
 }
